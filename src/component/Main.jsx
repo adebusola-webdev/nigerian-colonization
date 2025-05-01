@@ -180,83 +180,82 @@ const Main = () => {
               influence Nigeria’s education system today.
             </p>
           </div>
-          <div className="intro-con">
-            <span className="con-head">
-              Long-Term Effects of Colonial Education
-            </span>
+        </div>
+      </section>
+      <div className="intro-con map-bg">
+        <span className="con-head">
+          Long-Term Effects of Colonial Education
+        </span>
 
-            <p className="con-text">
-              The long-term effects of colonial education in Nigeria are
-              far-reaching and continue to shape the country’s social,
-              political, and economic landscape. While colonial education
-              introduced literacy, formal schooling, and Western knowledge
-              systems, it also left behind structural issues and inequalities
-              that still persist today. One major legacy is the dominance of the
-              English language. While it helped unify a linguistically diverse
-              country and facilitated communication, it also led to the
-              marginalization of indigenous languages and cultures. Indigenous
-              knowledge systems, oral traditions, and local histories were
-              devalued, contributing to a loss of cultural identity among
-              educated Nigerians. The uneven distribution of educational
-              opportunities during colonial rule, especially between the North
-              and South, created long-standing regional disparities. Southern
-              Nigeria, which had greater access to missionary schools, advanced
-              more quickly in education and later dominated public service and
-              politics. The North, with limited educational infrastructure,
-              lagged behind-a gap that still affects national development and
-              unity. Colonial education was designed for a select few. This
-              created a small, Western-educated elite who were given
-              administrative and economic advantages. This group often became
-              disconnected from the majority of the population and formed a
-              privileged class that continued to benefit from access to better
-              education and jobs even after independence. The British were
-              reluctant to establish universities in Nigeria, fearing it might
-              encourage nationalist movements. As a result, the development of
-              tertiary education was delayed, forcing many Nigerians to study
-              abroad. It wasn’t until 1948 that Nigeria’s first university was
-              established. This late start hindered the development of local
-              expertise and slowed the growth of research and innovation in
-              Nigeria. Nigeria inherited the colonial structure of education,
-              which was geared more toward clerical and administrative skills
-              than upward science, technology, or entrepreneurial development.
-              Despite several reform efforts like the Universal Primary
-              Education(UPE) in 1976 and the Universal Basic Education (UBE) in
-              1999, the system still struggles with outdated curricula, teacher
-              shortages, and inadequate infrastructure. Colonial education
-              promoted the idea that Western ways were superior, which affected
-              the self-perception of many Nigerians. This mindset contributed to
-              the underappreciation of local knowledge, traditions, and
-              languages, and created a psychological dependency on foreign
-              models of development and education.While colonial education
-              introduced formal schooling and helped build an administrative
-              class, its long-term effects include cultural erosion, inequality,
-              and a system not fully aligned with Nigeria’s needs.
-            </p>
-          </div>
-          <div className="intro-con">
-            <span className="con-head">Conclusion</span>
+        <p className="con-text">
+          The long-term effects of colonial education in Nigeria are
+          far-reaching and continue to shape the country’s social, political,
+          and economic landscape. While colonial education introduced literacy,
+          formal schooling, and Western knowledge systems, it also left behind
+          structural issues and inequalities that still persist today. One major
+          legacy is the dominance of the English language. While it helped unify
+          a linguistically diverse country and facilitated communication, it
+          also led to the marginalization of indigenous languages and cultures.
+          Indigenous knowledge systems, oral traditions, and local histories
+          were devalued, contributing to a loss of cultural identity among
+          educated Nigerians. The uneven distribution of educational
+          opportunities during colonial rule, especially between the North and
+          South, created long-standing regional disparities. Southern Nigeria,
+          which had greater access to missionary schools, advanced more quickly
+          in education and later dominated public service and politics. The
+          North, with limited educational infrastructure, lagged behind-a gap
+          that still affects national development and unity. Colonial education
+          was designed for a select few. This created a small, Western-educated
+          elite who were given administrative and economic advantages. This
+          group often became disconnected from the majority of the population
+          and formed a privileged class that continued to benefit from access to
+          better education and jobs even after independence. The British were
+          reluctant to establish universities in Nigeria, fearing it might
+          encourage nationalist movements. As a result, the development of
+          tertiary education was delayed, forcing many Nigerians to study
+          abroad. It wasn’t until 1948 that Nigeria’s first university was
+          established. This late start hindered the development of local
+          expertise and slowed the growth of research and innovation in Nigeria.
+          Nigeria inherited the colonial structure of education, which was
+          geared more toward clerical and administrative skills than upward
+          science, technology, or entrepreneurial development. Despite several
+          reform efforts like the Universal Primary Education(UPE) in 1976 and
+          the Universal Basic Education (UBE) in 1999, the system still
+          struggles with outdated curricula, teacher shortages, and inadequate
+          infrastructure. Colonial education promoted the idea that Western ways
+          were superior, which affected the self-perception of many Nigerians.
+          This mindset contributed to the underappreciation of local knowledge,
+          traditions, and languages, and created a psychological dependency on
+          foreign models of development and education.While colonial education
+          introduced formal schooling and helped build an administrative class,
+          its long-term effects include cultural erosion, inequality, and a
+          system not fully aligned with Nigeria’s needs.
+        </p>
+      </div>
+      <section className="intro-sectionn">
+        <div className="intro-con">
+          <span className="con-head">Conclusion</span>
 
-            <p className="con-text">
-              The British colonial era profoundly shaped Nigeria’s educational
-              landscape, leaving a legacy that continues to influence the
-              nation’s socio-economic and cultural development. By introducing
-              Western-style education primarily aimed at serving colonial
-              administrative needs, the British established a system that
-              prioritized English literacy and clerical skills over indigenous
-              knowledge and equitable access. This approach led to significant
-              regional disparities, particularly disadvantaging the Northern
-              Nigeria, and fostered socio-economic stratification by creating an
-              elite class versed in Western education. Furthermore, the
-              marginalization of indigenous languages and cultures contributed
-              to a loss of cultural identity among Nigerians. Addressing these
-              enduring challenges requires comprehensive educational reforms
-              that integrate indigenous knowledge systems, promote equitable
-              access across all regions, and balance global competencies with
-              local cultural values. Such initiatives are essential for
-              fostering a more inclusive and representative educational
-              framework that supports Nigeria’s ongoing development and unity.
-            </p>
-          </div>
+          <p className="con-text">
+            The British colonial era profoundly shaped Nigeria’s educational
+            landscape, leaving a legacy that continues to influence the nation’s
+            socio-economic and cultural development. By introducing
+            Western-style education primarily aimed at serving colonial
+            administrative needs, the British established a system that
+            prioritized English literacy and clerical skills over indigenous
+            knowledge and equitable access. This approach led to significant
+            regional disparities, particularly disadvantaging the Northern
+            Nigeria, and fostered socio-economic stratification by creating an
+            elite class versed in Western education. Furthermore, the
+            marginalization of indigenous languages and cultures contributed to
+            a loss of cultural identity among Nigerians. Addressing these
+            enduring challenges requires comprehensive educational reforms that
+            integrate indigenous knowledge systems, promote equitable access
+            across all regions, and balance global competencies with local
+            cultural values. Such initiatives are essential for fostering a more
+            inclusive and representative educational framework that supports
+            Nigeria’s ongoing development and unity.
+          </p>
         </div>
         <div className="above-slider-con">
           <h3 className="above-slider-head">Do you know?</h3>
@@ -274,6 +273,7 @@ const Main = () => {
           </p>
         </div>
       </section>
+
       <div className="slider-con">
         <Slider />
       </div>

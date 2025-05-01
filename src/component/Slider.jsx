@@ -4,8 +4,9 @@ const Images = [
   "/Images/six.png",
   "Images/seven.png",
   "Images/eight.png",
-  "Images/eight.png",
-  "Images/eight.png",
+  "Images/nine.png",
+  "Images/ten.png",
+  "Images/eleven.png",
 ];
 
 const Slider = () => {
@@ -13,7 +14,7 @@ const Slider = () => {
     const imageIdxs = [];
     function addNewBatch() {
       const offset = imageIdxs.length; // the next batch should start from the last batch
-      [...Array(5)].forEach((_, i) => {
+      [...Array(6)].forEach((_, i) => {
         imageIdxs.push((i + offset) % Images.length);
       });
     }

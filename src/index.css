@@ -31,13 +31,26 @@ code {
 }
 .hero-section{
   background-image:url(../public/Images/hero.png);
- 
+   
   padding-left: 80px;
   background-size: cover;
   
 }
 .intro-section{
   background-image: url(../public/Images/bg.png);
+  
+  background-repeat: no-repeat;
+}
+.map-bg{
+  background-image: url(../public/Images/map.png);
+  padding: 30px 80px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  
+
+
+  
 }
 .hero-con-header{
   padding-top: 400px;
@@ -57,13 +70,15 @@ code {
   font-size: var(--sub-text);
   color: white;
   font-family: Opensans;
-  padding-bottom:80px;
+  padding-bottom:100px;
   margin-top: 15px;
 }
 .intro-con{
 
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  padding-top: 30px;
 }
+
 
 .con-head{
   display: inline-block;
@@ -72,7 +87,7 @@ code {
   border-bottom: 4px solid var(--green);
   font-size: var(--sub-head);
  margin-top: 50px;
- margin-bottom: 20px;
+ margin-bottom: 30px
 
 }
 .con-text{
@@ -83,6 +98,9 @@ code {
 
 }
 .intro-section{
+  padding: var(--primary-padding);
+}
+.intro-sectionn{
   padding: var(--primary-padding);
 }
 .img-flex{
@@ -99,6 +117,7 @@ code {
 
 .flag-img{
   margin-top: 30px;
+  width: 100%;
 }
 
 .above-slider-head{
@@ -162,7 +181,7 @@ font-weight: 700;
 .credit-con{
   display: flex;
   gap: 3px;
-  margin-top: 20px;
+  margin-top: 10px;
   color: white;
   padding-top: 20px;
   width: 29%;
@@ -180,9 +199,7 @@ font-weight: 700;
   
 
 }
-.credit-inner-con-two{
-  padding-top: 0px;
-}
+
 
 .credit-flex-con-two .credit-con{
 margin-top: 0;
@@ -272,7 +289,7 @@ margin-top: 0;
   }
   .credit-flex-con{
     flex-direction: column;
-    gap: 20px;
+    gap: 0px;
   }
   .credit-con{
     
@@ -280,6 +297,9 @@ margin-top: 0;
    
   
   
+  }
+  .credit-inner-con{
+    padding: 10px 80px;
   }
   .con-head{
   
@@ -299,6 +319,7 @@ margin-top: 0;
   .above-slider-text{
    
      font-size: 18px;
+     line-height: 1.3rem;
   
      
   }
@@ -312,6 +333,7 @@ margin-top: 0;
   .anthems h2{
   
     font-size: 25px;
+    
    
   }
   .anthems p{
@@ -332,6 +354,9 @@ margin-top: 0;
    .intro-section{
     padding: 0 30px;
   }
+  .intro-sectionn{
+    padding: 0 30px;
+  }
   .hero-section{
     padding-left: 30px;
   }
@@ -346,10 +371,15 @@ margin-top: 0;
     padding: 0 30px;
   }
   .credit-inner-con{
-    background-color: var(--green);
-    padding: 40px 30px;
+   
+    padding: 10px 30px;
     
   
+  }
+  .map-bg{
+    padding: 0 30px;
+    background-position: left;
+    background-size: cover;
   }
   .anthems h2{
   
@@ -367,6 +397,7 @@ margin-top: 0;
   }
   .con-text{
     font-size: 15px;
+    line-height: 1.3rem;
 
   
   }
@@ -379,6 +410,9 @@ margin-top: 0;
      font-size: 15px;
   
      
+  }
+  .credit-con{
+    font-size: 15px;
   }
 
 }
@@ -396,7 +430,7 @@ margin-top: 0;
   
   }
   .con-text{
-    font-size: 13px;
+    font-size: 13px;   line-height: 1rem;
 
   
   }
@@ -417,5 +451,11 @@ margin-top: 0;
     
   
   
+  }
+  .image-container > div {
+  
+    height: 100px;
+  
+   
   }
 }

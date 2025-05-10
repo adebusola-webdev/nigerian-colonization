@@ -81,6 +81,13 @@ const Main = () => {
               British style education over indigenous alternatives. With this
               foundation made by the British in the late 19th century, the
               Nigerian educational system underwent significant transformations.
+            </p>
+
+            <div className="img-flex">
+              <img src="../Images/thirteens.png" alt="" />
+              <img src="../Images/forteen.png" alt="" />
+            </div>
+            <p className="con-text">
               As the British colonial administration gained control, it
               institutionalized English in government-run schools to unify
               communication and streamline governance across the diverse ethnic
@@ -127,25 +134,33 @@ const Main = () => {
               education ordinances (Dr. Folasade Rasidat Sulaimon pg 84), which
               structured the system around primary and secondary schooling but
               limited higher education development until the establishment of
-              Yaba Higher College in 1934. The 1882 Education ordinance was the
-              first attempt to regulate education, focusing on government
-              inspection and the classification of schools. The 1916 Education
-              ordinance established more control over mission schools and
-              emphasized efficiency in school management. The 1926 ordinance
-              provided a more structural framework and introduced grants-in-aid
-              for schools that met government standards. However, it still
-              prioritized the needs of the colonial government over the broader
-              educational needs of Nigerians. These policies reflected a limited
-              investment in education, particularly in higher education. It
-              wasn’t until 1934 that the first higher institution was
-              established, and even then, it offered only diploma-level training
-              aimed at filling subordinate positions. Overall, the British
-              colonial curriculum and policies were narrow in scope, designed to
-              maintain control and support colonial administration rather than
-              to empower or develop an independent and critically thinking
-              Nigerian populace. The effects of this system linger today, as
-              Nigeria continues to reform its educational system to better
-              reflect its cultural identity and developmental goals.
+              Yaba Higher College in 1934.
+            </p>
+
+            <div className="img-flex">
+              <img src="../Images/fiftheen.png" alt="" />
+              <img src="../Images/sixtheen.png" alt="" />
+            </div>
+            <p className="con-text">
+              The 1882 Education ordinance was the first attempt to regulate
+              education, focusing on government inspection and the
+              classification of schools. The 1916 Education ordinance
+              established more control over mission schools and emphasized
+              efficiency in school management. The 1926 ordinance provided a
+              more structural framework and introduced grants-in-aid for schools
+              that met government standards. However, it still prioritized the
+              needs of the colonial government over the broader educational
+              needs of Nigerians. These policies reflected a limited investment
+              in education, particularly in higher education. It wasn’t until
+              1934 that the first higher institution was established, and even
+              then, it offered only diploma-level training aimed at filling
+              subordinate positions. Overall, the British colonial curriculum
+              and policies were narrow in scope, designed to maintain control
+              and support colonial administration rather than to empower or
+              develop an independent and critically thinking Nigerian populace.
+              The effects of this system linger today, as Nigeria continues to
+              reform its educational system to better reflect its cultural
+              identity and developmental goals.
             </p>
           </div>
           <div className="intro-con">
@@ -301,6 +316,31 @@ const Main = () => {
           </div>
         </div>
       </div>
+      <section className="intro-sectionn">
+        <div className="intro-con">
+          <span className="con-head">why this ?</span>
+
+          <p className="con-text">
+            I chose to explore the impact of British colonization on Nigeria’s
+            Education System because of its deep lasting effects on the
+            country’s history, culture, and identity. It’s not just a historical
+            event, it’s a story that continues to shape the present. For me,
+            this topic is personal. As someone of Nigerian heritage, learning
+            about Nigeria's history in school has always captivated me and left
+            me with so many questions yet to be answered and details untold. My
+            personal connection with this topic made it an interesting
+            experience, diving into history and finally getting answers to
+            questions I've always had. I wanted to understand not just the
+            historical facts, but also the personal and cultural consequences of
+            colonial rule on education. This topic matters to me because it
+            reveals how the past still echoes in the present, and it helps me
+            appreciate the resilience and strength of people who endured and
+            adapted through such a transformative period. Taking a different
+            approach has helped me tell this story in a creative and meaningful
+            way.
+          </p>
+        </div>
+      </section>
 
       <section className="credit-section">
         <div className="credit-inner-con">

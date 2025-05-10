@@ -167,6 +167,9 @@ font-weight: 700;
   font-weight: 400;
   margin-bottom: 30px;
 }
+.credit-section{
+  margin-top: 70px;
+}
 .credit-inner-con{
   background-color: var(--green);
   padding: 40px 80px;
